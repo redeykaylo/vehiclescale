@@ -1,6 +1,5 @@
 Sure! Here’s a clean, clear README.md for your GitHub project in English:
 
-````markdown
 # Vehicle Scale Script for FiveM
 
 This script adds functional vehicle weighing stations to your FiveM server. Players can drive onto a scale, press a key to weigh their vehicle including the cargo inside the trunk, and get notified of the total weight. The data is also logged to a Discord channel via webhook.
