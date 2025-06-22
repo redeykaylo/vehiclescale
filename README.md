@@ -61,7 +61,6 @@ Config.ScaleZones = {
 
 Config.InteractDist = 5.0
 Config.Webhook = 'YOUR_DISCORD_WEBHOOK_URL'
-````
 
 ---
 
