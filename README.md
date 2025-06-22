@@ -54,6 +54,7 @@ Config.ScaleZones = {
         text = "Press ~g~[E]~s~ to weigh your vehicle"
     }
 }
+```
 
 Config.InteractDist = 5.0
 Config.Webhook = 'YOUR_DISCORD_WEBHOOK_URL'
