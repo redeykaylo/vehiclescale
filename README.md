@@ -75,6 +75,7 @@ MIT License — feel free to use, modify, and distribute.
 ## 💬 Support
 
 If you encounter any issues or have questions, feel free to open an issue on GitHub.
+For community support and chat, join our Discord server:(https://discord.gg/g9hEEFXeAy).
 
 ---
 
